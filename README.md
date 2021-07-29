@@ -1,2 +1,2 @@
 # Face Tacker Friends
-This project includes real-time face recognition on "Friends" short movie.
+This project includes face recognition on "Friends" short movie.
