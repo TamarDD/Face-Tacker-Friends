@@ -1,2 +1,3 @@
 # Face Tacker Friends
-This project includes face recognition on "Friends" short movie.
+This is a fun project which includes face recognition on "Friends" short movie.
+I used two main modules: Face Recognition and OpenCV
